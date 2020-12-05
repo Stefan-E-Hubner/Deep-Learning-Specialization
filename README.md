@@ -1,1 +1,1 @@
-# Deep-Learning-Specialization from Coursera taught my Andrew Ng
+# Deep-Learning-Specialization from Coursera taught by Andrew Ng
