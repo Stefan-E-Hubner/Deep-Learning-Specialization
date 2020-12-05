@@ -1,4 +1,1 @@
-# Deep-Learning-Specialization
-
-*Course 1
-  - Foundations of deep learning 
+# Deep-Learning-Specialization from Coursera taught my Andrew Ng
